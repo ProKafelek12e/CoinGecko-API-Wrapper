@@ -24,9 +24,13 @@ GET /coin/bitcoin?diff=true
 }
 ```
 
+### 👀 Check it out for yourself
+
+https://coingecko-api-wrapper-production.up.railway.app/coin/bitcoin?diff=true
+
 ## 🛠 Installation
 
-git clone https://github.com/yourusername/crypto-price-wrapper.git  
+git clone https://github.com/ProKafelek12e/CoinGecko-API-Wrapper.git
 cd crypto-price-wrapper  
 npm install
 
